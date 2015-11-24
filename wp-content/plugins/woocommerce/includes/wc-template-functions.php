@@ -1002,7 +1002,7 @@ if ( ! function_exists( 'woocommerce_default_product_tabs' ) ) {
 		// Description tab - shows product content
 		if ( $post->post_content ) {
 			$tabs['description'] = array(
-				'title'    => __( 'Description', 'woocommerce' ),
+				'title'    => __( 'Mô tả', 'woocommerce' ),
 				'priority' => 10,
 				'callback' => 'woocommerce_product_description_tab'
 			);
@@ -1011,7 +1011,7 @@ if ( ! function_exists( 'woocommerce_default_product_tabs' ) ) {
 		// Additional information tab - shows attributes
 		if ( $product && ( $product->has_attributes() || ( $product->enable_dimensions_display() && ( $product->has_dimensions() || $product->has_weight() ) ) ) ) {
 			$tabs['additional_information'] = array(
-				'title'    => __( 'Additional Information', 'woocommerce' ),
+				'title'    => __( 'Thông số kỹ thuật', 'woocommerce' ),
 				'priority' => 20,
 				'callback' => 'woocommerce_product_additional_information_tab'
 			);

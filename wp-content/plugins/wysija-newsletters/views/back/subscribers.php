@@ -832,7 +832,7 @@ class WYSIJA_view_back_subscribers extends WYSIJA_view_back
 			</tr>
 			<tr>
 			    <th scope="row">
-				<label for="list-desc"><?php _e('Description', WYSIJA); ?> </label>
+				<label for="list-desc"><?php _e('Mô tả', WYSIJA); ?> </label>
 		    <p class="description"><?php _e('For your own use and never shown to your subscribers.', WYSIJA); ?></p>
 		    </th>
 		    <td>

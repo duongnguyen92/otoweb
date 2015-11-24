@@ -378,3 +378,33 @@ Message: gzinflate(): data error
 File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
 Line:    2136
 -------------------------------------------- 
+[Nov 24 2015 08:57:37] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 24 2015 08:57:38] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 24 2015 08:58:30] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 24 2015 08:59:20] ERROR_HANDLER 
+Number:  2
+Message: unlink(E:\xampp\htdocs\otoweb/wp-content/temp-write-test-1448355560): Permission denied
+File:    E:\xampp\htdocs\otoweb\wp-admin\includes\file.php
+Line:    962
+-------------------------------------------- 
+[Nov 24 2015 08:59:20] ERROR_HANDLER 
+Number:  2
+Message: filemtime(): stat failed for E:\xampp\htdocs\otoweb/wp-content/uploads/wpcf7_uploads/1948766397565426e82d6db.tmp
+File:    E:\xampp\htdocs\otoweb\wp-content\plugins\contact-form-7\modules\file.php
+Line:    383
+-------------------------------------------- 
