@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/up-sells.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/related.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/up-sells.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/yith-woocommerce-ajax-search.php" charset="UTF-8" />
+  </component>
+</project>

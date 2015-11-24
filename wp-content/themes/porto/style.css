@@ -1,0 +1,67 @@
+/*
+Theme Name: Porto
+Theme URI: http://newsmartwave.net/wordpress/porto
+Author: SW-THEMES
+Author URI: http://newsmartwave.net/
+Description: Porto Responsive Wordpress + Woocommerce Theme.
+Version: 2.5.4
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: porto
+
+*/
+
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.bypostauthor {}
+.under-banner-1  {
+	display: flex;
+}
+.under-banner-2  {
+	display: flex;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.under-banner-1 .basic-equitment {
+	width: 50%;
+    float: left;
+    display: inline-block;
+}
+.under-banner-1 .khuyen-mai {
+	float: left;
+    width: 24.1%;
+    vertical-align: top;
+    display: block;
+	margin-left: 5px;
+}
+.under-banner-1 .khuyen-mai img{
+	height: 278px;
+    width: 272px
+}
+.under-banner-1 .free-delivery {
+	float: left;
+    width: 24.1%;
+    vertical-align: top;
+    display: block;
+	margin-left: 5px;
+}
+.under-banner-1 .free-delivery img{
+	height: 277px;
+}
+.under-banner-2 .basic-equitment {
+	width: 49.4%;
+    float: left;
+}
+.under-banner-2 .b2-img {
+	margin-left: 5px;
+}
+.add-links-wrap {
+	display: none;
+}
+.cart {
+	display: none;
+}
+#mini-cart {
+	display: none;
+}

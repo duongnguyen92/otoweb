@@ -1,0 +1,380 @@
+[Nov 10 2015 15:12:18] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:13:06] ERROR Exception while importing: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'wp_categorymeta' already exists with query: -- All In One WP Migration SQL Dump
+-- http://servmask.com/
+--
+-- Host: localhost
+-- Generation Time: Fri, 25 Sep 2015 00:59:56 +0000
+
+--
+-- Database: `sw_themes_porto_dummy`
+--
+
+CREATE TABLE `wp_categorymeta` (
+  `meta_id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `category_id` bigint(20) NOT NULL DEFAULT '0',
+  `meta_key` varchar(255) DEFAULT NULL,
+  `meta_value` longtext,
+  UNIQUE KEY `meta_id` (`meta_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+ 
+[Nov 10 2015 15:13:07] ERROR Exception while importing: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'wp_member_catmeta' already exists with query: 
+CREATE TABLE `wp_member_catmeta` (
+  `meta_id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `member_cat_id` bigint(20) NOT NULL DEFAULT '0',
+  `meta_key` varchar(255) DEFAULT NULL,
+  `meta_value` longtext,
+  UNIQUE KEY `meta_id` (`meta_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+ 
+[Nov 10 2015 15:13:07] ERROR Exception while importing: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'wp_portfolio_catmeta' already exists with query: 
+CREATE TABLE `wp_portfolio_catmeta` (
+  `meta_id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `portfolio_cat_id` bigint(20) NOT NULL DEFAULT '0',
+  `meta_key` varchar(255) DEFAULT NULL,
+  `meta_value` longtext,
+  UNIQUE KEY `meta_id` (`meta_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+ 
+[Nov 10 2015 15:13:12] ERROR Exception while importing: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2616' for key 'PRIMARY' with query: INSERT INTO `wp_posts` VALUES ('2616','1','2015-03-25 08:32:27','2015-03-25 08:32:27','','slider_bg_021','','inherit','open','open','','slider_bg_021','','','2015-03-25 08:32:27','2015-03-25 08:32:27','','0','http://localhost/otoweb/wp-content/uploads/2015/01/slider_bg_021.png','0','attachment','image/png','0');
+ 
+[Nov 10 2015 15:13:26] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:13:27] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:13:27] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:13:28] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:15:13] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 15:27:09] ERROR_HANDLER 
+Number:  2
+Message: require_once(E:\xampp\htdocs\otoweb/wp-content/themes/porto/inc/admin/porto/settings.php): failed to open stream: No such file or directory
+File:    E:\xampp\htdocs\otoweb\wp-content\themes\porto\inc\admin\theme_options.php
+Line:    13
+-------------------------------------------- 
+[Nov 10 2015 16:13:29] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 10 2015 16:13:30] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 04:15:06] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 04:15:12] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 04:15:13] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 05:31:56] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 05:31:57] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 13:48:45] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 13:48:46] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 13:55:01] ERROR_HANDLER 
+Number:  2
+Message: unlink(E:\xampp\htdocs\otoweb/wp-content/temp-write-test-1447250101): Permission denied
+File:    E:\xampp\htdocs\otoweb\wp-admin\includes\file.php
+Line:    962
+-------------------------------------------- 
+[Nov 11 2015 14:49:12] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 14:49:15] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 14:49:15] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 14:55:21] ERROR_HANDLER 
+Number:  2
+Message: unlink(E:\xampp\htdocs\otoweb/wp-content/temp-write-test-1447253721): Permission denied
+File:    E:\xampp\htdocs\otoweb\wp-admin\includes\file.php
+Line:    962
+-------------------------------------------- 
+[Nov 11 2015 14:55:48] ERROR_HANDLER 
+Number:  2
+Message: unlink(E:\xampp\htdocs\otoweb/wp-content/temp-write-test-1447253748): Permission denied
+File:    E:\xampp\htdocs\otoweb\wp-admin\includes\file.php
+Line:    962
+-------------------------------------------- 
+[Nov 11 2015 14:56:23] ERROR_HANDLER 
+Number:  2
+Message: unlink(E:\xampp\htdocs\otoweb/wp-content/temp-write-test-1447253783): Permission denied
+File:    E:\xampp\htdocs\otoweb\wp-admin\includes\file.php
+Line:    962
+-------------------------------------------- 
+[Nov 11 2015 15:49:22] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 15:49:24] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 16:49:50] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 11 2015 16:49:51] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 02:22:24] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 02:22:26] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 03:10:53] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 03:22:52] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 03:22:53] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 04:24:13] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 04:24:14] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:29] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:30] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:30] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:30] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:31] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:21:31] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 07:45:21] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 11:57:44] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 11:57:47] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 11:57:50] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 15:19:11] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 12 2015 15:19:13] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 15 2015 06:34:13] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 15 2015 06:34:15] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 15 2015 08:56:05] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 15 2015 08:56:06] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 18 2015 16:52:04] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 18 2015 16:52:06] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 18 2015 16:52:33] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 19 2015 04:09:16] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 19 2015 04:09:18] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 20 2015 09:51:48] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 
+[Nov 20 2015 09:51:49] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    E:\xampp\htdocs\otoweb\wp-includes\class-http.php
+Line:    2136
+-------------------------------------------- 

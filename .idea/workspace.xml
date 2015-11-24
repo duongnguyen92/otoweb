@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfbfbace-7eee-4cda-acbf-c98f52dbcb86" name="Default" comment="" />
+    <ignored path="otoweb.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="otoweb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="vc_row.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/vc_templates/vc_row.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="117" column="49" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-to-cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/loop/add-to-cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+              <folding>
+                <element signature="e#6#116#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/variable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="137" column="121" selection-start-line="137" selection-start-column="121" selection-end-line="137" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract-wc-product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="535" column="20" selection-start-line="535" selection-start-column="20" selection-end-line="535" selection-end-column="20" />
+              <folding>
+                <marker date="1447171110624" expanded="true" signature="28363:28619" placeholder="SELECT SUM(m..." />
+                <marker date="1447171110624" expanded="true" signature="29376:29678" placeholder="SELECT meta_..." />
+                <marker date="1447171110624" expanded="true" signature="31162:31287" placeholder="SELECT COUNT..." />
+                <marker date="1447171110624" expanded="true" signature="40054:40094" placeholder="SELECT DISTI..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="external.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/external.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.yith-wcwl-admin-init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl-admin-init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1323" column="44" selection-start-line="1323" selection-start-column="44" selection-end-line="1323" selection-end-column="44" />
+              <folding>
+                <marker date="1447171267731" expanded="true" signature="9150:9160" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-product-simple.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="up-sells.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/up-sells.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="up-sells.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/up-sells.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="related.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/related.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taxonomy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/taxonomy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2244" column="33" selection-start-line="2244" selection-start-column="27" selection-end-line="2244" selection-end-column="33" />
+              <folding>
+                <marker date="1447172330100" expanded="true" signature="23513:23740" placeholder="SELECT tr.ob..." />
+                <marker date="1447172330100" expanded="true" signature="42691:42908" placeholder="SELECT ${$wp..." />
+                <marker date="1447172330100" expanded="true" signature="43062:43156" placeholder="SELECT ${$re..." />
+                <marker date="1447172330100" expanded="true" signature="43294:43422" placeholder="SELECT ${$re..." />
+                <marker date="1447172330100" expanded="true" signature="46212:46365" placeholder="SELECT t.*, ..." />
+                <marker date="1447172330100" expanded="true" signature="49247:49397" placeholder="SELECT t.*, ..." />
+                <marker date="1447172330100" expanded="true" signature="68857:68930" placeholder="SELECT ${$fi..." />
+                <marker date="1447172330100" expanded="true" signature="71950:71993" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="72013:72144" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="73072:73241" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="73338:73512" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="73604:73664" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="73751:73816" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="84997:85073" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="86012:86087" placeholder="SELECT objec..." />
+                <marker date="1447172330100" expanded="true" signature="87462:87522" placeholder="SELECT COUNT..." />
+                <marker date="1447172330100" expanded="true" signature="93285:93502" placeholder="SELECT ${$se..." />
+                <marker date="1447172330100" expanded="true" signature="94238:94463" placeholder="SELECT tr.te..." />
+                <marker date="1447172330100" expanded="true" signature="100185:100213" placeholder="SELECT MAX(t..." />
+                <marker date="1447172330100" expanded="true" signature="102291:102446" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="103139:103368" placeholder="SELECT t.ter..." />
+                <marker date="1447172330100" expanded="true" signature="107499:107600" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="108586:108705" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="109356:109488" placeholder="INSERT INTO ..." />
+                <marker date="1447172330100" expanded="true" signature="109489:109527" placeholder="UPDATE term_..." />
+                <marker date="1447172330100" expanded="true" signature="112278:112373" placeholder="DELETE FROM ..." />
+                <marker date="1447172330100" expanded="true" signature="115244:115307" placeholder="SELECT slug ..." />
+                <marker date="1447172330100" expanded="true" signature="115373:115418" placeholder="SELECT slug ..." />
+                <marker date="1447172330100" expanded="true" signature="115590:115635" placeholder="SELECT slug ..." />
+                <marker date="1447172330100" expanded="true" signature="119304:119332" placeholder="SELECT MAX(t..." />
+                <marker date="1447172330100" expanded="true" signature="120614:120769" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="122413:122488" placeholder="SELECT objec..." />
+                <marker date="1447172330100" expanded="true" signature="129022:129108" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="137047:137314" placeholder="SELECT objec..." />
+                <marker date="1447172330100" expanded="true" signature="139452:139786" placeholder="SELECT COUNT..." />
+                <marker date="1447172330100" expanded="true" signature="139876:140111" placeholder="SELECT COUNT..." />
+                <marker date="1447172330100" expanded="true" signature="140960:141034" placeholder="SELECT COUNT..." />
+                <marker date="1447172330100" expanded="true" signature="143324:143420" placeholder="SELECT COUNT..." />
+                <marker date="1447172330100" expanded="true" signature="143780:143848" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="144113:144164" placeholder="SELECT t.* F..." />
+                <marker date="1447172330100" expanded="true" signature="144871:144933" placeholder="SELECT * FRO..." />
+                <marker date="1447172330100" expanded="true" signature="145016:145101" placeholder="SELECT term_..." />
+                <marker date="1447172330100" expanded="true" signature="145735:145795" placeholder="SELECT taxon..." />
+                <marker date="1447172330100" expanded="true" signature="147992:148190" placeholder="SELECT tt.te..." />
+                <marker date="1447172330100" expanded="true" signature="148919:148995" placeholder="SELECT * FRO..." />
+                <marker date="1447172330100" expanded="true" signature="151999:152401" placeholder="SELECT m1.po..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yith-woocommerce-ajax-search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/yith-woocommerce-ajax-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en_GB.po" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/languages/en_GB.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3489" column="7" selection-start-line="3489" selection-start-column="7" selection-end-line="3489" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yit-cpt-unlimited.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+              <folding>
+                <marker date="1447172372441" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+                <marker date="1447172372441" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+                <marker date="1447172372441" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+                <marker date="1447172372441" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+                <marker date="1447172372441" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+                <marker date="1447172372441" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+                <marker date="1447172372441" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+                <marker date="1447172372441" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+                <marker date="1447172372441" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+                <marker date="1447172372441" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1197512">
+              <caret line="491" column="0" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+              <folding>
+                <marker date="1447259504347" expanded="true" signature="48026:48040" placeholder="..." />
+                <marker date="1447259504347" expanded="true" signature="48157:48171" placeholder="..." />
+                <marker date="1447259504347" expanded="true" signature="48350:48362" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yit-cpt-unlimited.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+              <folding>
+                <marker date="1447172360603" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+                <marker date="1447172360603" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+                <marker date="1447172360603" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+                <marker date="1447172360603" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+                <marker date="1447172360603" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+                <marker date="1447172360603" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+                <marker date="1447172360603" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+                <marker date="1447172360603" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+                <marker date="1447172360603" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+                <marker date="1447172360603" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yit-cpt-unlimited.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+              <folding>
+                <marker date="1447172404721" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+                <marker date="1447172404721" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+                <marker date="1447172404721" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+                <marker date="1447172404721" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+                <marker date="1447172404721" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+                <marker date="1447172404721" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+                <marker date="1447172404721" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+                <marker date="1447172404721" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+                <marker date="1447172404721" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+                <marker date="1447172404721" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/masterslider/admin/views/slider-panel/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="616" column="46" selection-start-line="616" selection-start-column="46" selection-end-line="616" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-product-variation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="186" column="82" selection-start-line="186" selection-start-column="71" selection-end-line="186" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/Ultimate_VC_Addons/admin/auto-update/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="596" column="44" selection-start-line="596" selection-start-column="44" selection-end-line="596" selection-end-column="44" />
+              <folding>
+                <marker date="1447165720636" expanded="true" signature="6100:6210" placeholder="..." />
+                <marker date="1447165720636" expanded="true" signature="7015:7074" placeholder="..." />
+                <marker date="1447165720636" expanded="true" signature="40738:40848" placeholder="..." />
+                <marker date="1447165720636" expanded="true" signature="41366:41425" placeholder="..." />
+                <marker date="1447165720636" expanded="true" signature="43394:43453" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grouped.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/grouped.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="86" column="107" selection-start-line="86" selection-start-column="107" selection-end-line="86" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl-admin-init.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/up-sells.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/up-sells.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/related.php" />
+        <option value="$PROJECT_DIR$/wp-includes/taxonomy.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/porto/woocommerce/yith-woocommerce-ajax-search.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/masterslider/admin/views/slider-panel/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/porto/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="otoweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="otoweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="otoweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pierce-body.com" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbfbace-7eee-4cda-acbf-c98f52dbcb86" name="Default" comment="" />
+      <created>1447170025060</created>
+      <option name="number" value="Default" />
+      <updated>1447170025060</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1378" height="754" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24669604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4232489" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172372441" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172372441" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172372441" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172372441" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172372441" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172372441" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172372441" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172372441" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="491" column="0" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+          <folding>
+            <marker date="1447259504347" expanded="true" signature="48026:48040" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48157:48171" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48350:48362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172360603" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172360603" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172360603" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172360603" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172360603" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172360603" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172360603" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172360603" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172404721" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172404721" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172404721" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172404721" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172404721" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172404721" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172404721" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172404721" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/masterslider/admin/views/slider-panel/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="616" column="46" selection-start-line="616" selection-start-column="46" selection-end-line="616" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="186" column="82" selection-start-line="186" selection-start-column="71" selection-end-line="186" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Ultimate_VC_Addons/admin/auto-update/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="596" column="44" selection-start-line="596" selection-start-column="44" selection-end-line="596" selection-end-column="44" />
+          <folding>
+            <marker date="1447165720636" expanded="true" signature="6100:6210" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="7015:7074" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="40738:40848" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="41366:41425" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="43394:43453" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/vc_templates/vc_row.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="49" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/loop/add-to-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding>
+            <element signature="e#6#116#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="121" selection-start-line="137" selection-start-column="121" selection-end-line="137" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="535" column="20" selection-start-line="535" selection-start-column="20" selection-end-line="535" selection-end-column="20" />
+          <folding>
+            <marker date="1447171110624" expanded="true" signature="28363:28619" placeholder="SELECT SUM(m..." />
+            <marker date="1447171110624" expanded="true" signature="29376:29678" placeholder="SELECT meta_..." />
+            <marker date="1447171110624" expanded="true" signature="31162:31287" placeholder="SELECT COUNT..." />
+            <marker date="1447171110624" expanded="true" signature="40054:40094" placeholder="SELECT DISTI..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/external.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl-admin-init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1323" column="44" selection-start-line="1323" selection-start-column="44" selection-end-line="1323" selection-end-column="44" />
+          <folding>
+            <marker date="1447171267731" expanded="true" signature="9150:9160" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2244" column="33" selection-start-line="2244" selection-start-column="27" selection-end-line="2244" selection-end-column="33" />
+          <folding>
+            <marker date="1447172330100" expanded="true" signature="23513:23740" placeholder="SELECT tr.ob..." />
+            <marker date="1447172330100" expanded="true" signature="42691:42908" placeholder="SELECT ${$wp..." />
+            <marker date="1447172330100" expanded="true" signature="43062:43156" placeholder="SELECT ${$re..." />
+            <marker date="1447172330100" expanded="true" signature="43294:43422" placeholder="SELECT ${$re..." />
+            <marker date="1447172330100" expanded="true" signature="46212:46365" placeholder="SELECT t.*, ..." />
+            <marker date="1447172330100" expanded="true" signature="49247:49397" placeholder="SELECT t.*, ..." />
+            <marker date="1447172330100" expanded="true" signature="68857:68930" placeholder="SELECT ${$fi..." />
+            <marker date="1447172330100" expanded="true" signature="71950:71993" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="72013:72144" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73072:73241" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73338:73512" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73604:73664" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="73751:73816" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="84997:85073" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="86012:86087" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="87462:87522" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="93285:93502" placeholder="SELECT ${$se..." />
+            <marker date="1447172330100" expanded="true" signature="94238:94463" placeholder="SELECT tr.te..." />
+            <marker date="1447172330100" expanded="true" signature="100185:100213" placeholder="SELECT MAX(t..." />
+            <marker date="1447172330100" expanded="true" signature="102291:102446" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="103139:103368" placeholder="SELECT t.ter..." />
+            <marker date="1447172330100" expanded="true" signature="107499:107600" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="108586:108705" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="109356:109488" placeholder="INSERT INTO ..." />
+            <marker date="1447172330100" expanded="true" signature="109489:109527" placeholder="UPDATE term_..." />
+            <marker date="1447172330100" expanded="true" signature="112278:112373" placeholder="DELETE FROM ..." />
+            <marker date="1447172330100" expanded="true" signature="115244:115307" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="115373:115418" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="115590:115635" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="119304:119332" placeholder="SELECT MAX(t..." />
+            <marker date="1447172330100" expanded="true" signature="120614:120769" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="122413:122488" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="129022:129108" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="137047:137314" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="139452:139786" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="139876:140111" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="140960:141034" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="143324:143420" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="143780:143848" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="144113:144164" placeholder="SELECT t.* F..." />
+            <marker date="1447172330100" expanded="true" signature="144871:144933" placeholder="SELECT * FRO..." />
+            <marker date="1447172330100" expanded="true" signature="145016:145101" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="145735:145795" placeholder="SELECT taxon..." />
+            <marker date="1447172330100" expanded="true" signature="147992:148190" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="148919:148995" placeholder="SELECT * FRO..." />
+            <marker date="1447172330100" expanded="true" signature="151999:152401" placeholder="SELECT m1.po..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/yith-woocommerce-ajax-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/languages/en_GB.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3489" column="7" selection-start-line="3489" selection-start-column="7" selection-end-line="3489" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172372441" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172372441" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172372441" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172372441" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172372441" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172372441" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172372441" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172372441" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="861" column="50" selection-start-line="861" selection-start-column="50" selection-end-line="861" selection-end-column="50" />
+          <folding>
+            <marker date="1447259504347" expanded="true" signature="48026:48040" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48157:48171" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48350:48362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172360603" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172360603" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172360603" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172360603" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172360603" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172360603" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172360603" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172360603" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172404721" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172404721" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172404721" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172404721" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172404721" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172404721" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172404721" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172404721" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/masterslider/admin/views/slider-panel/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="186" column="82" selection-start-line="186" selection-start-column="71" selection-end-line="186" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Ultimate_VC_Addons/admin/auto-update/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="596" column="44" selection-start-line="596" selection-start-column="44" selection-end-line="596" selection-end-column="44" />
+          <folding>
+            <marker date="1447165720636" expanded="true" signature="6100:6210" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="7015:7074" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="40738:40848" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="41366:41425" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="43394:43453" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/grouped.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="107" selection-start-line="86" selection-start-column="107" selection-end-line="86" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/vc_templates/vc_row.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="49" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/loop/add-to-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding>
+            <element signature="e#6#116#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="121" selection-start-line="137" selection-start-column="121" selection-end-line="137" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="535" column="20" selection-start-line="535" selection-start-column="20" selection-end-line="535" selection-end-column="20" />
+          <folding>
+            <marker date="1447171110624" expanded="true" signature="28363:28619" placeholder="SELECT SUM(m..." />
+            <marker date="1447171110624" expanded="true" signature="29376:29678" placeholder="SELECT meta_..." />
+            <marker date="1447171110624" expanded="true" signature="31162:31287" placeholder="SELECT COUNT..." />
+            <marker date="1447171110624" expanded="true" signature="40054:40094" placeholder="SELECT DISTI..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Ultimate_VC_Addons/admin/auto-update/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="596" column="44" selection-start-line="596" selection-start-column="44" selection-end-line="596" selection-end-column="44" />
+          <folding>
+            <marker date="1447165720636" expanded="true" signature="6100:6210" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="7015:7074" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="40738:40848" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="41366:41425" placeholder="..." />
+            <marker date="1447165720636" expanded="true" signature="43394:43453" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/external.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl-admin-init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1323" column="44" selection-start-line="1323" selection-start-column="44" selection-end-line="1323" selection-end-column="44" />
+          <folding>
+            <marker date="1447171267731" expanded="true" signature="9150:9160" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="186" column="82" selection-start-line="186" selection-start-column="71" selection-end-line="186" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/up-sells.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/languages/en_GB.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3489" column="7" selection-start-line="3489" selection-start-column="7" selection-end-line="3489" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-search/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172360603" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172360603" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172360603" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172360603" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172360603" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172360603" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172360603" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172360603" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172360603" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2244" column="33" selection-start-line="2244" selection-start-column="27" selection-end-line="2244" selection-end-column="33" />
+          <folding>
+            <marker date="1447172330100" expanded="true" signature="23513:23740" placeholder="SELECT tr.ob..." />
+            <marker date="1447172330100" expanded="true" signature="42691:42908" placeholder="SELECT ${$wp..." />
+            <marker date="1447172330100" expanded="true" signature="43062:43156" placeholder="SELECT ${$re..." />
+            <marker date="1447172330100" expanded="true" signature="43294:43422" placeholder="SELECT ${$re..." />
+            <marker date="1447172330100" expanded="true" signature="46212:46365" placeholder="SELECT t.*, ..." />
+            <marker date="1447172330100" expanded="true" signature="49247:49397" placeholder="SELECT t.*, ..." />
+            <marker date="1447172330100" expanded="true" signature="68857:68930" placeholder="SELECT ${$fi..." />
+            <marker date="1447172330100" expanded="true" signature="71950:71993" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="72013:72144" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73072:73241" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73338:73512" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="73604:73664" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="73751:73816" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="84997:85073" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="86012:86087" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="87462:87522" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="93285:93502" placeholder="SELECT ${$se..." />
+            <marker date="1447172330100" expanded="true" signature="94238:94463" placeholder="SELECT tr.te..." />
+            <marker date="1447172330100" expanded="true" signature="100185:100213" placeholder="SELECT MAX(t..." />
+            <marker date="1447172330100" expanded="true" signature="102291:102446" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="103139:103368" placeholder="SELECT t.ter..." />
+            <marker date="1447172330100" expanded="true" signature="107499:107600" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="108586:108705" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="109356:109488" placeholder="INSERT INTO ..." />
+            <marker date="1447172330100" expanded="true" signature="109489:109527" placeholder="UPDATE term_..." />
+            <marker date="1447172330100" expanded="true" signature="112278:112373" placeholder="DELETE FROM ..." />
+            <marker date="1447172330100" expanded="true" signature="115244:115307" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="115373:115418" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="115590:115635" placeholder="SELECT slug ..." />
+            <marker date="1447172330100" expanded="true" signature="119304:119332" placeholder="SELECT MAX(t..." />
+            <marker date="1447172330100" expanded="true" signature="120614:120769" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="122413:122488" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="129022:129108" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="137047:137314" placeholder="SELECT objec..." />
+            <marker date="1447172330100" expanded="true" signature="139452:139786" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="139876:140111" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="140960:141034" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="143324:143420" placeholder="SELECT COUNT..." />
+            <marker date="1447172330100" expanded="true" signature="143780:143848" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="144113:144164" placeholder="SELECT t.* F..." />
+            <marker date="1447172330100" expanded="true" signature="144871:144933" placeholder="SELECT * FRO..." />
+            <marker date="1447172330100" expanded="true" signature="145016:145101" placeholder="SELECT term_..." />
+            <marker date="1447172330100" expanded="true" signature="145735:145795" placeholder="SELECT taxon..." />
+            <marker date="1447172330100" expanded="true" signature="147992:148190" placeholder="SELECT tt.te..." />
+            <marker date="1447172330100" expanded="true" signature="148919:148995" placeholder="SELECT * FRO..." />
+            <marker date="1447172330100" expanded="true" signature="151999:152401" placeholder="SELECT m1.po..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/yith-woocommerce-ajax-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172372441" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172372441" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172372441" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172372441" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172372441" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172372441" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172372441" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172372441" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172372441" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-ajax-navigation/plugin-fw/lib/yit-cpt-unlimited.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="627" column="48" selection-start-line="627" selection-start-column="48" selection-end-line="627" selection-end-column="48" />
+          <folding>
+            <marker date="1447172404721" expanded="true" signature="7787:7854" placeholder="SELECT DISTI..." />
+            <marker date="1447172404721" expanded="true" signature="8071:8228" placeholder="SELECT COUNT..." />
+            <marker date="1447172404721" expanded="true" signature="8293:8475" placeholder="SELECT ID FR..." />
+            <marker date="1447172404721" expanded="true" signature="9272:9319" placeholder="SELECT menu_..." />
+            <marker date="1447172404721" expanded="true" signature="24750:24904" placeholder="SELECT p.* F..." />
+            <marker date="1447172404721" expanded="true" signature="50948:51109" placeholder="SELECT pm.po..." />
+            <marker date="1447172404721" expanded="true" signature="51506:51668" placeholder="SELECT pm.me..." />
+            <marker date="1447172404721" expanded="true" signature="58965:59106" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="62016:62178" placeholder="SELECT p.pos..." />
+            <marker date="1447172404721" expanded="true" signature="63214:63376" placeholder="SELECT p.pos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/masterslider/admin/views/slider-panel/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="616" column="46" selection-start-line="616" selection-start-column="46" selection-end-line="616" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/inc/functions/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1197512">
+          <caret line="491" column="0" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+          <folding>
+            <marker date="1447259504347" expanded="true" signature="48026:48040" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48157:48171" placeholder="..." />
+            <marker date="1447259504347" expanded="true" signature="48350:48362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/porto/woocommerce/single-product/add-to-cart/grouped.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="107" selection-start-line="86" selection-start-column="107" selection-end-line="86" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
