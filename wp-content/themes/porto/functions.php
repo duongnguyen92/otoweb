@@ -411,3 +411,31 @@ function porto_enqueue_custom_css() {
     </style>
     <?php
 }
+
+add_action( 'wp_ajax_email_order', 'prefix_ajax_email_order' );
+add_action( 'wp_ajax_nopriv_email_order', 'prefix_ajax_email_order' );
+
+function prefix_ajax_email_order() {
+	global $wpdb;
+	$to = "trungngobg91@gmail.com";//trungngobg91@gmail.com
+	$email = esc_attr( $_POST['email'] );
+	$name = esc_attr( $_POST['hoten'] );
+	$sdt = esc_attr( $_POST['sdt'] );
+	$title = esc_attr( $_POST['title'] );
+	$sku = esc_attr( $_POST['sku'] );
+	$url = esc_attr( $_POST['url'] );
+	$diachi = esc_attr( $_POST['diachi'] );
+
+	$subject = "Đặt hàng sản phẩm " . $_POST['title'];
+	$content =
+    "Họ tên khách hàng: {$name} \n\n" .
+    "Email: {$email} \n" .
+    "Số điện thoại: {$sdt} \n" .
+    "Địa chỉ khách hàng: {$diachi} \n\n" .
+    "Mã sản phẩm (SKU): {$sku} \n\n" .
+    "Tên sản phẩm: {$title} \n\n" .
+    "Đường link sản phẩm: " . $_POST['url'] . " \n\n";
+    "Lời nhắn: " . $_POST['loinhan'] . " \n\n";
+	$status = wp_mail($to, $subject, $content);
+	die();
+}

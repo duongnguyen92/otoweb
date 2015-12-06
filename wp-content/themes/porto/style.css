@@ -65,3 +65,128 @@ Text Domain: porto
 #mini-cart {
 	display: none;
 }
+.advertise {
+	height: 73px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e1e1e1;
+	background: #fbfbfb;
+}
+.advertise .uy-tin{
+    border-right: 1px solid #e1e1e1;
+    border-left: 1px solid #e1e1e1;
+}
+.advertise > div {
+	width: 33%;
+    float: left;
+    display: block;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.porto-slider-middle .slider-wrapper {
+    height: 300px;
+    background: url('images/banner_021.jpg');
+}
+.porto-slider-middle {
+    margin-bottom: 50px;
+    margin-top:  50px;
+}
+.porto-slider-end  {
+    margin-bottom: 0px;
+}
+.porto-slider-middle .main-text {
+    font-size: 50px;
+    color: #fff;
+    padding-top: 90px;
+}
+.porto-slider-middle .sub-text {
+    font-size: 20px;
+    padding-top: 33px;
+    color: #fff;
+}
+.porto-slider-end .slider-wrapper {
+    height: 100px;
+}
+.left-end {
+    width: 50%;
+    float: left;
+}
+.right-end {
+    width: 50%;
+    float: left;
+}
+.form-email-order .label {
+	width: 115px; 
+	display: inline-block;
+	color: #777;
+	font-size: 100%;
+	font-weight: normal;
+	text-align: left;
+}
+.form-email-order .loinhan {
+	display: block;
+	margin-top: 35px;
+	margin-bottom: 10px;
+}
+.button-product {
+    border-color: #0077b3;
+    background-color: #0077b3;
+    color: #fff;
+    width: 200px;
+    display: block;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.wanted-ads-link {
+	margin-top: 10px;
+}
+.button-product:hover {
+	text-decoration: none;
+}
+#dathang:hover, #accept-wanted:hover {
+	text-decoration: none;
+}
+.form-email-order {
+    background: whitesmoke none repeat scroll 0 0;
+    padding: 25px 15px 15px 15px ;
+    width: 100%;
+}
+.form-email-order .error {
+	color: #900;
+    font-size: 11px;
+    margin-bottom: 10px;
+    margin-left: 120px;
+    display: inline-block;
+    margin-top: 0px
+}
+.contact-order {
+	background: whitesmoke none repeat scroll 0 0;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+@media screen and ( max-width: 640px ) {
+    .left-end {
+        width: 100%;
+    }
+    .right-end {
+        width: 100%;
+    }
+    .under-banner-1 .basic-equitment {
+        width: 100%;
+    }
+    .under-banner-1 .khuyen-mai {
+       display: none;
+    }
+    .under-banner-1 .free-delivery {
+        display: none;
+    }
+}
